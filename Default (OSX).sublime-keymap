@@ -1,0 +1,5 @@
+[
+  {
+    "keys": ["ctrl+alt+4"], "command": "c_beautifier"
+  }
+]

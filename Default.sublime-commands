@@ -1,0 +1,7 @@
+[
+    {
+        "id": "cbeautifier",
+        "caption": "C/C++ Code Beautifier",
+        "command": "c_beautifier"
+    }
+]

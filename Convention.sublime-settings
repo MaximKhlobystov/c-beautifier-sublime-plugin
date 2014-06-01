@@ -1,0 +1,7 @@
+{
+  "indent_size" : 8,
+  "space_in_arguments_definition" : "no",
+  "line_length" : 80,
+  "space_in_condition" : "one",
+  "block_statement": "one"
+}
